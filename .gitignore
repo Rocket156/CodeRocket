@@ -1,5 +1,5 @@
 # Archivos de configuración sensibles
-wp-config.php
+/wp-config.php
 wp-content/uploads/
 wp-content/backup/
 wp-content/cache/
