@@ -1,0 +1,19 @@
+# Archivos de configuración sensibles
+wp-config.php
+wp-content/uploads/
+wp-content/backup/
+wp-content/cache/
+wp-content/upgrade/
+
+# Archivos temporales y de caché
+*.log
+*.sql
+*.tar.gz
+*.zip
+
+# Archivos de sistema y de entorno local
+.env
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
